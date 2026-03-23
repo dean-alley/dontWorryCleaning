@@ -1,0 +1,12 @@
+﻿/*
+Theme Name: Don't Worry Cleaning (v1.0)
+Theme URI: https://dontworrycleaning.com/
+Author: Dean Alley & NorthCurrent Digital
+Description: Professional WordPress theme for Don't Worry Cleaning - Twin Cities house cleaning services
+Version: 1.0
+Text Domain: dontworrycleaning
+Tags: cleaning, house-cleaning, residential, services, business
+*/
+
+/* Import main stylesheet */
+@import url('assets/css/main.css');
